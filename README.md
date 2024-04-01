@@ -12,11 +12,10 @@ Atualmente estou aprimorando minhas habilidades em C# e C++ e sempre em busca de
 - Desenvolvimento Web: Front-end, Low Code
 - Aprendizado contínuo em C# e C++
 
-## Projetos Atuais
 
 
 ## Vamos nos conectar!
-- [LinkedIn](https://www.linkedin.com/in/jessica-luiza-b561641ab/)
+- [LinkedIn Jessica](https://www.linkedin.com/in/jessica-luiza-b561641ab/)
 - 📧 Email: jluiza409@gmail.com
 
 ## Curiosidades
