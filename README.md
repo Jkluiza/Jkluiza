@@ -9,7 +9,7 @@ Atualmente estou aprimorando minhas habilidades em C# e C++ e sempre em busca de
 - Automatização de Processos com RPA
 - Inteligência Artificial e Machine Learning
 - Power Platform e Azure DevOps
-- Desenvolvimento Web: Front-end, Low Code
+- Desenvolvimento Web: Front-end, HTML5, CSS3, JavaScript, PHP, MySQL, Wordpress, Low Code
 - Aprendizado contínuo em C# e C++
 
 ## 🛠 Habilidades Técnicas
