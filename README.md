@@ -16,7 +16,7 @@ Atualmente estou aprimorando minhas habilidades em C# e C++ e sempre em busca de
 
 
 ## Vamos nos conectar!
-- [LinkedIn]([URL_DO_SEU_LINKEDIN](https://www.linkedin.com/in/jessica-luiza-b561641ab/))
+- [LinkedIn]((https://www.linkedin.com/in/jessica-luiza-b561641ab/))
 - 📧 Email: jluiza409@gmail.com
 
 ## Curiosidades
