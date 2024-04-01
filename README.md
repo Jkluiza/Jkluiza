@@ -12,7 +12,16 @@ Atualmente estou aprimorando minhas habilidades em C# e C++ e sempre em busca de
 - Desenvolvimento Web: Front-end, Low Code
 - Aprendizado contínuo em C# e C++
 
-
+### 🛠 Habilidades Técnicas
+```python
+languages = ["C", "C++", "Python", "Node.js", "JavaScript"]
+platforms = {
+  "microsoft_power_platform": ["DLP Policies", "ALM with AzureDevOps", "Internal BPM"],
+  "power_automate": ["UI Flows", "Premium and custom connectors"],
+  "power_apps": ["Model-driven and canvas apps"],
+  "power_virtual_agents": ["Integrated chatbot building"],
+  "dataverse": ["Table management and organizational analysis"]
+}
 
 ## Vamos nos conectar!
 - [LinkedIn Jessica](https://www.linkedin.com/in/jessica-luiza-b561641ab/)
