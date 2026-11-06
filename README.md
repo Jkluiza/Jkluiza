@@ -1,4 +1,4 @@
-# Oie, eu me Jéssica Oliveira! 👋
+# Bem vinda(o) ao meu painel. Eu me chamo Jéssica Oliveira! 👋
 
 > **Engenheira de Software | Backend Python, Automação de Infraestrutura & IA Aplicada**
 
