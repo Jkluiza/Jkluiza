@@ -1,43 +1,59 @@
-# Bem vinda(o) ao meu painel. Eu me chamo Jéssica Oliveira! 👋
+# I'm Jessica Oliveira 
 
-> **Engenheira de Software | Backend Python, Automação de Infraestrutura & IA Aplicada**
+### **Software Engineer | Python Backend, Distributed Systems & Applied AI**
+Brasília, DF, Brazil *(Open to Global Remote / B2B)*
 
-Sou uma profissional orientada a engenharia de sistemas robustos, com sólida vivência na concepção de microsserviços em Python, orquestração de esteiras de CI/CD (Azure DevOps / GitHub Actions) e aplicação prática de Inteligência Artificial e Bancos de Dados Vetoriais. Acredito que o verdadeiro valor da tecnologia está em transformar o caos operacional em arquiteturas limpas, determinísticas e altamente escaláveis.
-
----
-
-### ⚡ Áreas de Expertise & Foco Técnico
-* **Engenharia Backend & Microsserviços:** Python Avançado, FastAPI, rotinas assíncronas (`asyncio`), contratos estritos de dados via Pydantic v2.
-* **Infraestrutura de IA & RAG Avançado:** Orquestração de Grafos de Estados (LangGraph), Busca Híbrida, Embeddings, Bancos Vetoriais (`pgvector` / PostgreSQL) e LLMOps (Evals de IA).
-* **Automação de Infraestrutura & Shift-Left Quality:** Desenvolvimento de frameworks de teste e confiabilidade (Playwright/Pytest), perfilamento de tráfego de rede e telemetria.
-* **Governança corporativa & ALM:** Azure DevOps, YAML Pipelines, Gestão Segura de Segredos (Azure Key Vault) e políticas de DLP.
+Experienced Systems Software Engineer focused on architecting resilient backend systems, distributed microservices, and applied AI infrastructure. Proven track record of turning complex operational challenges into deterministic, high-throughput architectures through asynchronous Python, strict data contracts (Pydantic v2), and Shift-Left reliability practices.
 
 ---
 
-### 🛠 Habilidades Técnicas
+### ⚡ Core Engineering Focus
 
-| Categoria | Tecnologias & Ferramentas |
+* **Backend & Distributed Systems:** Asynchronous architectures (`asyncio`), high-performance APIs (FastAPI), schema-first design, and deterministic data contracts via Pydantic v2 (*Structured Outputs*).
+* **Applied AI & Agentic Workflows:** Stateful agent orchestration (LangGraph), hybrid RAG pipelines, semantic vector search (PostgreSQL with `pgvector`), and automated evaluation guardrails (Ragas).
+* **Reliability & Continuous Observability (SRE):** Resilient test frameworks (Playwright, Pytest), synthetic traffic profiling via Chrome DevTools Protocol (CDP), real-time RPS/latency monitoring, and exponential backoff retry policies.
+* **Enterprise ALM & Cloud Governance:** Multi-tier environment topologies, parallel CI/CD automation (Azure DevOps, GitHub Actions), credential isolation via Azure Key Vault, and Data Loss Prevention (DLP) connector boundaries.
+
+---
+
+### 🛠 Technical Toolbox
+
+| Discipline | Core Stack & Tools |
 | :--- | :--- |
-| **Linguagens** | Python (Avançado), SQL, C, C++, JavaScript, Node.js, TypeScript |
-| **IA & Dados** | IA Generativa, LLMs, RAG Híbrido, Pydantic v2, pgvector, LangGraph, Visão Computacional (OCR) |
-| **Backend & APIs** | FastAPI, RESTful APIs, Microsserviços, Processamento Assíncrono (`asyncio`) |
-| **Banco de Dados** | PostgreSQL, SQL Server, MySQL, Dataverse |
-| **DevOps & Cloud** | Azure DevOps, GitHub Actions, Docker, Git Workflow, Azure Key Vault, Grafana |
-| **Ecossistema MS** | Power Platform (Power Automate, Power Apps, Dataverse, Copilot Studio), Kit CoE |
+| **Languages** | Python (Advanced), SQL, C, C++, JavaScript, TypeScript |
+| **Backend & APIs** | FastAPI, Asynchronous Python (`asyncio`), RESTful APIs, Microservices, Event-Driven Webhooks |
+| **Applied AI & Data** | LangGraph, LangChain, RAG Pipelines, `pgvector`, Pydantic v2, Vector Search, Computer Vision (OCR) |
+| **Databases** | PostgreSQL, SQL Server, MySQL, Microsoft Dataverse |
+| **Cloud & DevOps** | Azure DevOps (YAML Pipelines), GitHub Actions, Docker, Azure Key Vault, Git Workflow, Grafana |
+| **Governance & Quality** | Spec-Driven Development (SDD), Shift-Left Testing, PII/LGPD Compliance, Center of Excellence (CoE) |
 
 ---
 
-### 💼 Experiência Corporativa em Destaque
+### 💼 Featured Production Impact
 
-* **Spread Tecnologia (Cliente: Unidas):** Atuação em arquitetura *greenfield* e reestruturação de esteiras de automação e confiabilidade, desenvolvendo frameworks modulares em Python e Playwright. Redução de ciclos de homologação crítica de 3h para menos de 20 minutos com zero regressões em produção através de orquestração paralela no Azure DevOps e portões de qualidade em janelas de GMUD.
-* **Spread Tecnologia (Cliente: Vivo):** Concepção de perfiladores de tráfego de rede via *Chrome DevTools Protocol (CDP)* para captura contínua de telemetria, medição de RPS/latência e automação 24/7 de plataformas B2B/B2C, exercendo liderança técnica de squad.
-* **Confederação Nacional da Indústria (CNI):** Governança de arquitetura (ALM), implementação de ChatOps integrando bots ao Azure DevOps e automação de pipelines de Intelligent Document Processing (IDP) com OCR.
-* **Serasa Experian (BrScan):** Construção de pipelines em Python para higienização e ingestão segura de grandes volumes de dados cadastrais confidenciais sob normas rigorosas de LGPD.
+* **Spread Tecnologia (Client: Unidas — Car Rental Enterprise):**
+  * Architected a modular backend reliability framework in Python and Playwright from scratch, replacing fragile legacy test suites.
+  * Orchestrated 20 parallel CI/CD delivery pipelines in Azure DevOps running 24/7, slashing release validation cycles from 3+ hours to under 20 minutes.
+  * Implemented an adaptive retry policy (`retry == 3`) with selective I/O containment, intercepting 90% of critical regressions and serving as a mandatory GMUD gatekeeper.
+
+* **Spread Tecnologia (Client: Vivo — Telecom Enterprise):**
+  * Engineered 24/7 network traffic profiling using Chrome DevTools Protocol (CDP) to capture real-time RPS and API latency across high-volume B2B/B2C transaction journeys.
+  * Built an automated anomaly triage engine combining computer vision (OCR) and event telemetry to autonomously classify streaming production incidents.
+  * Led squad delivery standards, refactoring legacy synchronization tasks into asynchronous Python microservices.
+
+* **CNI (National Confederation of Industry):**
+  * Designed enterprise Application Lifecycle Management (ALM) topologies across isolated environment tiers (DEV, STG, PROD, Default).
+  * Built event-driven ChatOps bots integrated with Azure DevOps and Azure Boards to trigger automated deployments and audit state changes in Dataverse.
+  * Formulated strict DLP policies and centralized secret management within Azure Key Vault.
+
+* **Serasa Experian & BrScan:**
+  * Engineered automated ETL pipelines in Python for sanitizing, validating, and ingesting massive cadastral records under strict LGPD compliance.
+  * Built document verification and data hygiene workflows supporting anti-fraud and biometric identity engines with over 90% accuracy.
 
 ---
 
-### 🌐 Conecte-se Comigo
-* **LinkedIn:** [linkedin.com/in/jessicaoliveira-developer/](https://linkedin.com/in/jessicaoliveira-developer/)
-* **GitHub:** [github.com/JkLuiza](https://github.com/JkLuiza)
-* **E-mail:** jluiza409@gmail.com
+### 🌐 Connect With Me
 
+* **LinkedIn:** [linkedin.com/in/jessicaoliveira-developer](https://www.linkedin.com/in/jessicaoliveira-developer/)
+* **GitHub:** [github.com/Jkluiza](https://github.com/Jkluiza)
+* **Email:** [jluiza409@gmail.com](mailto:jluiza409@gmail.com)
